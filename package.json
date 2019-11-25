@@ -1,0 +1,26 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "learn how to call an external api using node js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "martand",
+    "singh",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Aravind R",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.87.0"
+  }
+}
